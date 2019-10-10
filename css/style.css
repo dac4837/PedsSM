@@ -12,5 +12,13 @@ h1 {
 }
 
 h3 {
-    padding-bottom: 15px;
+    padding-bottom: 0px;
+}
+
+.col-sm-6 {
+    padding-left: 0px;
+}
+
+.page-end {
+    margin-bottom: 50px;
 }
