@@ -10,3 +10,7 @@ h1 {
     font-style: italic;
     font-size: smaller;
 }
+
+h3 {
+    padding-bottom: 15px;
+}
