@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+.link {
+    font-size: larger;
+}
+
+.explanation {
+    font-style: italic;
+    font-size: smaller;
+}
