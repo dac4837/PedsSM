@@ -22,3 +22,15 @@ h3 {
 .page-end {
     margin-bottom: 50px;
 }
+
+body {
+
+    background-color: #e1f9fc;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
